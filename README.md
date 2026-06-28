@@ -65,5 +65,11 @@ This repository contains the pure, stripped-down implementations of the algorith
 - `mc_control.py` 
 - `sarsa.py`
 - `q_learning.py`
+- `dynamic_programming.py` (Value and Policy Iteration)
+
+## 📊 The Final Results
+Here is the performance snapshot across all environments after letting the agents train for 500,000 episodes with Optimistic Initialization!
+
+![Results Screenshot](results.png)
 
 Feel free to poke around, tweak the hyperparameters, and watch the agents learn!
