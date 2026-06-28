@@ -1,6 +1,6 @@
 # 🧊 Conquering the Frozen Lake: My Journey into Reinforcement Learning
 
-![Frozen Lake Environment](https://gymnasium.farama.org/_images/frozen_lake.gif)
+![Frozen Lake Environment](frozen_lake.gif)
 
 It all started with a simple fascination: **How do machines actually learn from trial and error?** 
 
